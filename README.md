@@ -92,7 +92,7 @@ setModal("Welcome!");
 
 ## Live Demo
 
-
+.
 ---
 
 ## Future Improvements
